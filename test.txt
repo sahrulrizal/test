@@ -1,0 +1,2 @@
+helo bro ini config untuk localhost
+000 = dev
