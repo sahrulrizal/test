@@ -1,1 +1,3 @@
-hello bro
+helo bro ini config untuk localhost
+
+111 = local
